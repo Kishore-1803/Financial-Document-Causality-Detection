@@ -151,7 +151,3 @@ pip install -r requirements.txt
 ## 📝 License
 
 This project is licensed under the MIT License.
-
----
-
-*Created for SEM 6 NLP Project.*
