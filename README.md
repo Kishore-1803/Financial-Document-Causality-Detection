@@ -6,7 +6,7 @@
 ![Domain](https://img.shields.io/badge/Domain-FinTech_%7C_NLP-8A2BE2?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-A state-of-the-art NLP system designed to extract causal relationships and financial figures from complex financial reports. This project treats causality detection as an **Extractive Question Answering (QA)** task, leveraging an ensemble of Transformer models enhanced with **Neuro-Symbolic Guardrails** for high-precision information extraction.
+This project is a comprehensive benchmarking study designed to evaluate and compare multiple Transformer-based architectures for extracting causal relationships from financial reports. By treating causality detection as an Extractive Question Answering (QA) task, we systematically analyze the performance "lift" provided by domain-specific pre-training, model ensembling, and the addition of symbolic logic layers.
 
 ---
 
